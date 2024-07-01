@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import Todolist from "./Todolist";
 import "./index.css";
-// import 'bootstrap/js/dist/button';
 import AddIcon from '@mui/icons-material/Add';
 
 
